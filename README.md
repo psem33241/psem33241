@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!  
 
-Hi, I'm **Stéphane**, a petroleum engineer transitioning to data analysis. With a passion for problem-solving and data-driven solutions, I combine my technical expertise and programming skills to create impactful projects.  
+Hi, I'm **Paul Stephane**, a petroleum engineer transitioning to data analysis. With a passion for problem-solving and data-driven solutions, I combine my technical expertise and programming skills to create impactful projects.  
 
 ## 💻 Technical Skills  
 - **Programming Languages**: Python, SQL, HTML, CSS, JavaScript  
